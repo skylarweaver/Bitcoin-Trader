@@ -58,8 +58,8 @@ class Client:
     def __init__(self):
 
         #replace the following with your own API key and secret, or use the encryption found at the git repo
-        self.key = "34c39ddc-7142-413f-9df1-f96a300fc67f"
-        self.secret = "lOMP5TDRLFCBCLaiXmWihgNaGjbo1/SHop0PJzmlF12rAaHnajkWBpeGhvl9l/AgloNBEEgsJS7ukHionD6K0g=="
+        self.key = 
+        self.secret = 
         
         self.buff = ""
         self.timeout = 3
